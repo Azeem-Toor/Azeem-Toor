@@ -1,7 +1,8 @@
-[![MasterHead](https://i.gifer.com/8JIk.gif)]
+[![MasterHead]([https://i.gifer.com/8JIk.gif](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif))]
 <h1 align="center">Hi 👋, I'm Azeem Toor</h1>
-<h3 align="center">A passionate Full Stack Django and React Js developer ### Arduino Programmer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Django and React Js developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif"/>
+  ### Arduino Programmer 
 - 🔭 I’m currently working on **My Freelance Projects**
 
 - 🌱 I’m currently learning **React Native**
