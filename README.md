@@ -7,7 +7,7 @@
  <h4 align="left">Arduino Programmer</h4>
 - 🔭 I’m currently working on **My Freelance Projects**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Advanced AI and Agents**
 
 - 👨‍💻 All of my projects are available at [https://azeemtoor.com/](https://azeemtoor.com/)
 
